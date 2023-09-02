@@ -1,0 +1,64 @@
+.stack-nav {
+    background-color: #ffffff;
+    position: sticky;
+    padding: 2px;
+    justify-content: space-between;
+}
+
+.logo {
+    margin: 10px;
+    margin-left: 20px;
+    height: 8vh;
+}
+
+.searchbar {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #c7c7c7;
+    padding-left: 2px;
+    box-shadow: none;
+  }
+  
+
+.icon-btn {
+    padding: 10px;
+    color: rgb(95, 95, 95);
+
+}
+
+input {
+    padding-left: 15px;
+}
+
+.box {
+    border-right: 1px solid #c7c7c7;
+}
+
+.copyright {
+    margin-top: 1.5px;
+    color: #302f2f;
+}
+
+.sidebar-container {
+    overflow-y: auto;
+}
+
+
+.icon-span {
+    margin-right: 15px; 
+}
+
+.feed-span {
+    color: #302f2f;
+    font-weight: bold;
+    margin-bottom: 2px;
+    
+}
+
+.box-feed {
+    padding: 8px;
+    overflow: auto;
+    height: 90vh;
+    flex: 2px;
+}
+
